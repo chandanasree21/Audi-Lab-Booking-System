@@ -1,0 +1,11 @@
+body{
+    margin:0;
+    padding:0;
+    background:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url(https://png.pngtree.com/thumb_back/fh260/back_our/20190625/ourmid/pngtree-blue-business-technology-information-security-banner-background-image_260807.jpg);
+    background-size:cover;
+    background-position:center;
+    font-family:sans-serif;
+    font-family: 'Cinzel Decorative', cursive;
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Playfair Display', serif;
+}
